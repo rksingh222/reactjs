@@ -39,5 +39,7 @@ store.dispatch({type: 'increment'})
 open terminal
 node redux-demo.js //this will result in an error
 
-for a new project in react to install redux we need to use this 
+for a new project in react to install redux we need to use this
+npm install
 npm install redux react-redux
+npm start
