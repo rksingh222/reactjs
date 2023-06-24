@@ -43,3 +43,7 @@ for a new project in react to install redux we need to use this
 npm install
 npm install redux react-redux
 npm start
+
+
+to install redux toolkit
+npm install @reduxjs/toolkit
